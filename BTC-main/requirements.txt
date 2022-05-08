@@ -1,4 +1,0 @@
-bitcoin
-urllib3
-fastapi
-datetime
