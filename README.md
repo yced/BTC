@@ -1,4 +1,4 @@
 # BTC
 BanHammer BTC-Stealer Leak
 
-for get it add me yce#5855
+yce#5855
